@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Voiceit Daily</string>
+    <string name="record_today">Record Today</string>
 </resources>
